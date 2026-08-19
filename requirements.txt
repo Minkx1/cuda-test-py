@@ -1,0 +1,9 @@
+numpy
+onnx
+onnxruntime-gpu
+
+faster-whisper
+
+nvidia-cuda-runtime-cu12
+nvidia-cublas-cu12
+nvidia-cudnn-cu12
